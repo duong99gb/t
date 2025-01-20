@@ -53,9 +53,9 @@
     </style>
 </head>
 <body>
-<header>
+
     <image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShupSwTqmIEpiIF_tERpK6Fqvo_iDXY2AR7w&s" width="90" height="56">
-      <h1>Chào mừng đến với Câu Lạc Bộ Trường LTT</h1>
+     <header> <h1>Chào mừng đến với Câu Lạc Bộ Trường LTT</h1>
         <p>Chúng tôi là nơi hội tụ của những người đam mê và sáng tạo!</p></header>
     
 
